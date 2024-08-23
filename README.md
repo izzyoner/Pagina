@@ -1,3 +1,3 @@
 Welcome!
 
-This is a comercial page write whit html, css and javascript native
+This is a static templates writed whit html, css and javascript native
